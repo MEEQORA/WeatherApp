@@ -5,6 +5,8 @@
 Используемые API:
 1) https://openweathermap.org/api/hourly-forecast
 2) https://openweathermap.org/api/geocoding-api
+
+Скрины работы приложения: https://imgur.com/a/QN7uEY4
 ## Структура проекта
 Основные компоненты проекта:
 1) MainActivity.kt: Файл содержит главное окно, где расположена информация о погоде.
